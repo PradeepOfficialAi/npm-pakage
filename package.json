@@ -1,0 +1,22 @@
+{
+  "name": "is-string",
+  "version": "1.0.0",
+  "description": "creating first node pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepDrive/npm-pakage.git"
+  },
+  "keywords": [
+    "isString"
+  ],
+  "author": "Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepDrive/npm-pakage/issues"
+  },
+  "homepage": "https://github.com/PradeepDrive/npm-pakage#readme"
+}
